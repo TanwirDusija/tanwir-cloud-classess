@@ -1,5 +1,3 @@
-# Cloud Computing Basics
-
 ## Cloud Computing
 
 Cloud computing provides computing resources over the internet on demand.
@@ -17,3 +15,7 @@ Amazon EC2 provides virtual servers that can be created when required.
 ## DevOps Example
 
 A DevOps engineer uses Git to control source code changes and Docker to package an application consistently.
+
+## Docker
+
+Docker packages an application and its dependencies so that it runs consistently in different environments.
