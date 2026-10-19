@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    image: tanwir-docker-web:v1
+    container_name: tanwir-web-compose
+    ports:
+      - "8080:8000"
